@@ -1938,6 +1938,7 @@ dependencies = [
  "fnv",
  "intern",
  "lazy_static",
+ "log",
  "rayon",
  "regex",
  "schema",
